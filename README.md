@@ -2,7 +2,9 @@
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
-  <a href="https://rajaadanali.info"><img src="https://github-profile-readme-generator-images.vercel.app/logo.svg" alt="Logo" height="50"/></a>
+  <a href="https://rajaadanali.info">
+    <img src="https://rajaadanali.info/assets/img/image.png" alt="Logo" height="50"/>
+  </a>
 </p>
 
 ---
@@ -42,21 +44,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
----
-
-### 💼 Experience
-
-**June 2025 – July 2025: Full Stack Development Intern — CodeAlpha (Remote, Lucknow, Uttar Pradesh, India)**  
-_Internship focused on developing industry-ready skills in frontend and backend technologies through real-world project tasks._
-
-- Developed responsive and user-friendly web applications  
-- Collaborated with developers and mentors on full-stack projects  
-- Practiced modern web technologies: HTML, CSS, JavaScript, and backend concepts  
-- Enhanced problem-solving and debugging skills in a professional environment  
-- Gained exposure to agile workflow and code version control (Git)  
-
-**Duration:** 20th June 2025 – 20th July 2025  
-
+#### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&theme=radical)
 ---
 
 ### 📄 Know more
@@ -71,16 +60,10 @@ _Internship focused on developing industry-ready skills in frontend and backend 
 
 ---
 
-### 📊 GitHub Stats
-
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=RajaAdanAli1&theme=radical)
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-adan-ali/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raja_adan.ali/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/RajaAdanAli1)
+
+---
