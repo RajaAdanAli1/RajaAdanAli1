@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./assets/profile.png" width="190" style="border-radius:50%; border:4px solid #334155;" />
+<img src="https://rajaadanali1.github.io/myProfile/assets/image.png" width="190" style="border-radius:50%; border:4px solid #334155;" />
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<a href="https://rajaadanali.info">
+<a href="https://rajaadanali1.github.io/myProfile">
 <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=E2E8F0"/>
 </a>
 
