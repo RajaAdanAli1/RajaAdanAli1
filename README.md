@@ -185,9 +185,21 @@ const backend = {
 
 <div align="center">
 
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/Live%20Analytics-GitHub%20Contribution%20Heatmap-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Live analytics badge" />
+</p>
 
-<img width="98%" src="https://ghchart.rshah.org/RajaAdanAli1" alt="Live GitHub contribution chart" />
+<table>
+  <tr>
+    <td align="center" style="padding:18px; background:#020617; border:1px solid #1e293b; border-radius:18px;">
+      <img width="98%" src="https://ghchart.rshah.org/RajaAdanAli1" alt="Live GitHub contribution chart" />
+    </td>
+  </tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/Theme-Dark%20Glass%20Analytics-0F172A?style=flat-square&logo=github&logoColor=94A3B8" alt="Analytics theme" />
+</p>
 
 </div>
 
