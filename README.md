@@ -185,7 +185,7 @@ const backend = {
 
 <div align="center">
 
-[![RajaAdanAli1's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaAdanAli1)](https://github.com/anuraghazra/github-readme-stats)
+[![RajaAdanAli1's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaAdanAli1)](https://github.com/RajaAdanAli1/github-readme-stats)
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&text_color=E2E8F0" alt="Top languages" />
 
