@@ -265,8 +265,13 @@
 
 # <img src="https://skillicons.dev/icons?i=typescript" width="24"/> CURRENT DEVELOPMENT FOCUS
 
-```ts
-const RajaAdanAli = {
+<div align="center">
+
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:14px auto 0;">
+  <tr>
+    <td align="center" style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <img src="https://img.shields.io/badge/Current%20Focus-Scalable%20Products-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Current focus" />
+      <pre style="margin:14px 0 0; color:#cbd5e1; font-size:13px; line-height:1.8; overflow:auto; text-align:left;"><code>const RajaAdanAli = {
   building: [
     "Scalable Full Stack Platforms",
     "Modern Dashboard Systems",
@@ -283,15 +288,7 @@ const RajaAdanAli = {
   ],
 
   philosophy: "Engineering clean scalable systems."
-};
-```
-
-<div align="center">
-
-<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:14px auto 0;">
-  <tr>
-    <td align="center" style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
-      <img src="https://img.shields.io/badge/Current%20Focus-Scalable%20Products-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Current focus" />
+};</code></pre>
     </td>
   </tr>
 </table>
