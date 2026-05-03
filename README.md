@@ -17,25 +17,38 @@
 <br><br>
 
 <p align="center">
-
-<a href="https://rajaadanali1.github.io/myProfile">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=E2E8F0"/>
+<a href="https://rajaadanali1.github.io/myProfile" title="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
 </a>
 
-<a href="mailto:adanraja0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+<a href="https://github.com/RajaAdanAli1" title="GitHub">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E2E8F0" />
 </a>
 
-<a href="https://github.com/RajaAdanAli1">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
+<a href="https://www.linkedin.com/in/raja-adan-ali/" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8" />
 </a>
 
-<a href="https://www.linkedin.com/in/raja-adan-ali/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8"/>
+<a href="mailto:adanraja0@gmail.com" title="Email">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN-111827?style=for-the-badge&logo=react&logoColor=61DAFB" title="MERN Stack" />
+<img src="https://img.shields.io/badge/UI%2FUX-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" title="UI/UX Design" />
+<img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge&logo=docker&logoColor=2496ED" title="DevOps" />
+<img src="https://img.shields.io/badge/Security-020617?style=for-the-badge&logo=hackthebox&logoColor=9FE870" title="Security" />
+</p>
+
+<p align="center">
+
+<a href="https://wa.me/923107312040" title="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=E2E8F0" />
 </a>
 
-<a href="https://wa.me/923107312040">
-<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=E2E8F0"/>
+<a href="https://www.instagram.com/raja_adan.ali/" title="Instagram">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E2E8F0" />
 </a>
 
 </p>
@@ -184,11 +197,11 @@ const backend = {
 
 <br><br>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAdanAli1&theme=github-dark-blue&hide_border=true&background=000000&stroke=334155&ring=94A3B8&fire=64748B&currStreakLabel=E2E8F0"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajaAdanAli1&theme=github-compact&hide_border=true&bg_color=000000&color=94A3B8&line=64748B&point=E2E8F0"/>
 
 <br><br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaAdanAli1&theme=github_dark"/>
+<img width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajaAdanAli1&repo=RajaAdanAli1&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&text_color=E2E8F0"/>
 
 </div>
 
@@ -256,31 +269,8 @@ const RajaAdanAli = {
 </a>
 
 <a href="https://wa.me/923107312040">
-<img src="https://skillicons.dev/icons?i=discord" width="60"/>
+<img src="https://skillicons.dev/icons?i=whatsapp" width="60"/>
 </a>
-
-</div>
-
----
-
-# <img src="https://skillicons.dev/icons?i=git" width="24"/> CONTRIBUTION GRAPH
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RajaAdanAli1/RajaAdanAli1/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RajaAdanAli1/RajaAdanAli1/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Grid Snake Animation"
-    src="https://raw.githubusercontent.com/RajaAdanAli1/RajaAdanAli1/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
 
 </div>
 
@@ -301,6 +291,10 @@ const RajaAdanAli = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:000000,20:020617,45:0F172A,70:111827,100:1E293B"/>
 
 <h3>FULL STACK SOFTWARE ENGINEERING • UI SYSTEMS • CLOUD • SECURITY</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" title="Thanks for visiting" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=RajaAdanAli1&label=PROFILE+VIEWS&style=for-the-badge&color=111827"/>
 
