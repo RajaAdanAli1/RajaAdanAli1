@@ -1,21 +1,26 @@
 <div align="center">
 
-# 👋 Hey, I'm Raja Adan Ali  
-### 🚀 Full Stack Software Engineer | MERN Stack Developer | UI/UX Enthusiast | Cybersecurity Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Raja%20Adan%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer%20|%20MERN%20Developer%20|%20UI/UX%20Designer&descAlignY=60"/>
+
+# 👨‍💻 Full Stack Software Engineer
+
+### 🚀 MERN Stack Developer • Modern UI/UX Engineer • Cybersecurity Enthusiast • Open Source Contributor
 
 <p align="center">
   <a href="https://rajaadanali.info">
-    <img src="https://rajaadanali.info/assets/img/image.png" alt="Raja Adan Ali Logo" width="120"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:adanraja0@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/923107312040">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://rajaadanali.info"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:adanraja0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/923107312040"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;MERN+Stack+Engineer;Building+Modern+Responsive+Web+Apps;Cybersecurity+and+Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Modern+Web+Applications;MERN+Stack+Developer+%7C+Problem+Solver;Creating+Premium+Responsive+UI%2FUX;Passionate+About+Cybersecurity+and+Innovation;Turning+Ideas+Into+Digital+Experiences" />
 
 </div>
 
@@ -23,146 +28,244 @@
 
 # 💫 About Me
 
-💻 Passionate **Full Stack Software Developer** focused on building scalable, responsive, and high-performance web applications using modern technologies.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🚀 Currently working as a **Full Stack Developer Intern at CodeAlpha** while building freelance and personal projects.
+🚀 Passionate and detail-oriented **Full Stack Software Engineer** specializing in building scalable, high-performance, and visually stunning web applications.
 
-🎯 Strong interest in:
-- MERN Stack Development
-- Modern UI/UX Design
-- API Development & Integrations
-- Cybersecurity & Ethical Hacking
-- Open Source Collaboration
-- Performance Optimization
+💡 I focus on creating:
+- Modern Responsive Websites
+- Full Stack MERN Applications
+- Clean & Scalable Backend Architectures
+- Interactive Dashboards
+- Secure Authentication Systems
+- High Quality UI/UX Experiences
 
-🌍 Based in **Gujrat, Pakistan**
+🎯 Currently:
+- 💼 Full Stack Developer Intern at **CodeAlpha**
+- 🛠️ Building freelance & personal SaaS projects
+- 📚 Learning advanced cybersecurity & cloud technologies
+- 🌍 Exploring modern DevOps workflows
+
+📍 Based in **Pakistan**
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Advanced Tech Stack
 
-## 🖥️ Languages
+## 🖥️ Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,php,bash,mysql,mongodb" />
 </p>
 
 ---
 
-## ⚛️ Frameworks & Libraries
+## ⚛️ Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite,materialui" />
 </p>
+
+### 🔹 Frontend Expertise
+- Responsive Web Design
+- Modern UI/UX
+- Component-Based Architecture
+- SPA Development
+- Animation & Interactive Interfaces
+- Mobile-First Design
+- Dark/Light Theme Systems
+
+---
+
+## 🧠 Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,appwrite" />
+</p>
+
+### 🔹 Backend Expertise
+- RESTful APIs
+- Authentication & Authorization
+- JWT & Secure Sessions
+- CRUD Systems
+- API Integration
+- MVC Architecture
+- Server-Side Rendering
 
 ---
 
 ## 🛢️ Databases & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
+
+### 🔹 Database Skills
+- MongoDB Atlas
+- MySQL Queries
+- Database Schema Design
+- Real-Time Data Handling
+- Firebase Services
 
 ---
 
-## 🛠️ Tools & Platforms
+## ☁️ DevOps & Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,render,linux" />
 </p>
+
+### 🔹 Deployment & Workflow
+- Git Version Control
+- CI/CD Basics
+- GitHub Actions
+- Linux Environment
+- Hosting & Deployment
+- Performance Optimization
 
 ---
 
-# 📊 GitHub Analytics
+## 🎨 Design & Productivity Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,postman,vscode" />
+</p>
+
+### 🔹 Design Skills
+- Wireframing
+- Prototyping
+- Design Systems
+- Branding Concepts
+- User Experience Optimization
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAdanAli1&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAdanAli1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Certifications & Achievements
+# 🏆 Certifications & Professional Growth
 
-✔️ IBM Full Stack Software Development  
-✔️ Google Cybersecurity Certification  
-✔️ Full Stack Development Projects  
-✔️ Modern Responsive UI/UX Design  
-✔️ API Integration & Backend Systems  
+🏅 IBM Full Stack Software Development  
+🏅 Google Cybersecurity Certification  
+🏅 MERN Stack Development  
+🏅 Responsive Web Design  
+🏅 API Integration & Backend Systems  
+🏅 Modern UI/UX Engineering  
 
 ---
 
-# 🚀 Featured Skills
+# 🚀 Professional Expertise
 
 ```yaml
-Frontend:
+Frontend Engineering:
   - React.js
+  - Next.js
   - Tailwind CSS
+  - Redux Toolkit
   - Bootstrap
-  - Responsive Design
-  - UI/UX Design
+  - SCSS
+  - Vite
 
-Backend:
+Backend Engineering:
   - Node.js
   - Express.js
   - REST APIs
-  - Authentication Systems
+  - JWT Authentication
+  - MVC Architecture
+  - Middleware Systems
 
-Database:
+Databases:
   - MongoDB
   - MySQL
+  - Firebase
+  - Supabase
 
-Tools:
+DevOps & Tools:
   - Git & GitHub
-  - Postman
-  - VS Code
-  - Figma
+  - Docker Basics
+  - Vercel
+  - Netlify
+  - Render
+  - Linux
 
-Other:
-  - Cybersecurity Basics
+UI/UX:
+  - Figma
+  - Responsive Design
+  - Interactive Interfaces
+  - Dashboard Design
+  - Animations
+
+Other Skills:
+  - Cybersecurity Fundamentals
   - Agile Workflow
   - Problem Solving
+  - Team Collaboration
+  - Project Management
 ```
+
+---
+
+# 🌟 Current Focus
+
+- 🚀 Building premium full stack applications
+- 🔐 Learning cybersecurity & ethical hacking
+- ☁️ Exploring cloud & DevOps technologies
+- 🎨 Improving advanced UI/UX systems
+- 📦 Creating scalable backend architectures
 
 ---
 
 # 🌐 Portfolio & Resume
 
-🌍 Portfolio:  
-👉 **https://rajaadanali.info**
+<div align="center">
 
-📄 Resume:  
-👉 **https://rajaadanali.info/assets/pdf/resume.pdf**
+### 🌍 Portfolio
+<a href="https://rajaadanali.info">
+  <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 📄 Resume
+<a href="https://rajaadanali.info/assets/pdf/resume.pdf">
+  <img src="https://img.shields.io/badge/Download-Resume-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/raja-adan-ali/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/RajaAdanAli1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://www.instagram.com/raja_adan.ali/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/raja-adan-ali/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:adanraja0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="https://wa.me/923107312040">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://www.instagram.com/raja_adan.ali/">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
 </div>
@@ -171,8 +274,14 @@ Other:
 
 <div align="center">
 
-### 💡 “Building Digital Experiences That Make an Impact”
+## 💡 “Code. Create. Innovate. Repeat.”
 
-<img src="https://komarev.com/ghpvc/?username=RajaAdanAli1&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=RajaAdanAli1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RajaAdanAli1&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:06B6D4"/>
