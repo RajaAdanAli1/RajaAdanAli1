@@ -4,15 +4,19 @@
 <!--                    HERO SECTION                       -->
 <!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,20:020617,45:0F172A,70:111827,100:1E293B&text=RAJA%20ADAN%20ALI&fontSize=58&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20•%20MERN%20STACK%20DEVELOPER%20•%20UI/UX%20ENGINEER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:020617,45:0F172A,70:111827,100:1E293B&text=RAJA%20ADAN%20ALI&fontSize=54&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20•%20UI%2FUX%20ENGINEER%20•%20CLOUD%20SYSTEMS&descAlignY=58&descSize=17"/>
 
 <br>
 
-<img src="https://rajaadanali1.github.io/myProfile/assets/image.png" width="190" style="border-radius:50%; border:4px solid #334155;" />
+<img src="https://github.com/RajaAdanAli1.png?size=240" width="180" alt="Raja Adan Ali" style="border-radius:50%; border:4px solid #334155; box-shadow:0 0 0 10px rgba(51,65,85,0.15);" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=1000&lines=Designing+Scalable+Digital+Systems;Full+Stack+MERN+Engineer;Modern+UI%2FUX+Architect;Backend+Systems+%26+API+Engineering;Cybersecurity+%7C+Cloud+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=900&color=94A3B8&center=true&vCenter=true&width=980&lines=Designing+scalable+digital+products;Building+clean+MERN+systems;Shaping+modern+UI%2FUX+experiences;Engineering+secure+cloud-ready+applications" />
+
+<p align="center">
+Crafting polished full-stack products with clear architecture, strong visuals, and dependable delivery.
+</p>
 
 <br><br>
 
@@ -41,21 +45,9 @@
 <img src="https://img.shields.io/badge/Security-020617?style=for-the-badge&logo=hackthebox&logoColor=9FE870" title="Security" />
 </p>
 
-<p align="center">
-
-<a href="https://wa.me/923107312040" title="WhatsApp">
-<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=E2E8F0" />
-</a>
-
-<a href="https://www.instagram.com/raja_adan.ali/" title="Instagram">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E2E8F0" />
-</a>
-
-</p>
-
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7015-4c2d-8f1c-8c6f2c4f7f43.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0F172A,50:334155,100:0F172A"/>
 
 </div>
 
@@ -191,17 +183,13 @@ const backend = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&icon_color=64748B&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&icon_color=64748B&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&text_color=E2E8F0"/>
 
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajaAdanAli1&theme=github-compact&hide_border=true&bg_color=000000&color=94A3B8&line=64748B&point=E2E8F0"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajaAdanAli1&repo=RajaAdanAli1&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&text_color=E2E8F0"/>
 
 </div>
 
@@ -268,7 +256,7 @@ const RajaAdanAli = {
 <img src="https://skillicons.dev/icons?i=instagram" width="60"/>
 </a>
 
-<a href="https://wa.me/923107312040">
+<a href="https://wa.me/923107312040" title="WhatsApp">
 <img src="https://skillicons.dev/icons?i=whatsapp" width="60"/>
 </a>
 
@@ -291,6 +279,10 @@ const RajaAdanAli = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:000000,20:020617,45:0F172A,70:111827,100:1E293B"/>
 
 <h3>FULL STACK SOFTWARE ENGINEERING • UI SYSTEMS • CLOUD • SECURITY</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Available%20for-Engineering%20collaboration-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" title="Open to collaboration" />
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" title="Thanks for visiting" />
