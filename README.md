@@ -187,7 +187,7 @@ const backend = {
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajaAdanAli1&theme=github-compact&hide_border=true&bg_color=000000&color=94A3B8&line=64748B&point=E2E8F0"/>
+<img width="98%" src="https://ghchart.rshah.org/RajaAdanAli1" alt="Live GitHub contribution chart" />
 
 </div>
 
