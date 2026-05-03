@@ -8,9 +8,11 @@
 
 <br>
 
-<img src="https://github.com/RajaAdanAli1.png?size=240" width="180" alt="Raja Adan Ali" style="border-radius:50%; border:4px solid #334155; box-shadow:0 0 0 10px rgba(51,65,85,0.15);" />
+<p align="center">
+<img src="https://img.shields.io/badge/Raja%20Adan%20Ali-Full%20Stack%20Software%20Engineer-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Raja Adan Ali profile badge" />
+</p>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=900&color=94A3B8&center=true&vCenter=true&width=980&lines=Designing+scalable+digital+products;Building+clean+MERN+systems;Shaping+modern+UI%2FUX+experiences;Engineering+secure+cloud-ready+applications" />
 
@@ -183,9 +185,9 @@ const backend = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&icon_color=64748B&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajaAdanAli1&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=64748B&text_color=E2E8F0" alt="GitHub stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=94A3B8&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaAdanAli1&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&text_color=E2E8F0" alt="Top languages" />
 
 <br><br>
 
