@@ -1,10 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1E293B,75:0EA5E9,100:38BDF8&text=RAJA%20ADAN%20ALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20•%20MERN%20Developer%20•%20UI/UX%20Designer&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Modern+Scalable+Web+Applications;Crafting+Premium+UI%2FUX+Experiences;Full+Stack+MERN+Engineer;Cybersecurity+%26+Open+Source+Enthusiast;Creating+Fast+Responsive+Digital+Products" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1E293B,75:0EA5E9,100:38BDF8&text=RAJA%20ADAN%20ALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20•%20MERN%20Developer%20•%20UI/UX%20Engineer&descAlignY=58&descSize=18"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Modern+Scalable+Digital+Experiences;Full+Stack+MERN+Engineer;Crafting+Premium+Responsive+UI%2FUX;Cybersecurity+%26+Open+Source+Enthusiast;Turning+Ideas+Into+Reality+With+Code" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f4ff3e5.gif" width="100%"/>
+
+<br><br>
+
+<img src="https://rajaadanali1.github.io/myprofile/assets/imgs/profile.png" width="180" style="border-radius:50%; border:4px solid #38BDF8; box-shadow:0 0 40px rgba(56,189,248,0.6);" />
+
+<br><br>
+
+<h1>👨‍💻 Raja Adan Ali</h1>
+
+<h3>Full Stack Software Engineer • MERN Stack Developer • UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://rajaadanali.info">
@@ -24,74 +38,74 @@
   </a>
 </p>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f4ff3e5.gif" width="100%">
-
 </div>
 
 ---
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"/> About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212750543-2c7f4b93-4c9b-4c8b-8df5-f6b9cbecdd7f.gif"/>
+<div align="center">
+
+<img src="https://rajaadanali1.github.io/myprofile/assets/imgs/about-banner.png" width="100%" style="border-radius:20px;" />
+
+</div>
+
+<br>
 
 ```yaml
 Name: Raja Adan Ali
 Role: Full Stack Software Engineer
 Specialization: MERN Stack Development
 Location: Pakistan
-Focus:
+Experience:
+  - Full Stack Projects
   - Premium UI/UX
-  - Full Stack Web Apps
-  - API Architecture
-  - Cybersecurity
-  - Scalable Systems
+  - API Development
+  - Responsive Interfaces
+  - Secure Web Applications
 ```
 
-💻 Passionate developer focused on building **modern, scalable, high-performance applications** with premium user experiences and clean architecture.
+💻 Passionate software engineer focused on creating **modern, scalable, secure, and visually premium applications** with excellent user experiences.
 
-🚀 I specialize in:
-- Full Stack MERN Development
-- Advanced Responsive UI/UX
-- Modern Dashboard Systems
+🚀 Specialized in:
+- MERN Stack Development
+- Premium Dashboard Systems
+- Modern Responsive UI/UX
+- RESTful API Architecture
 - Authentication & Security
-- RESTful API Development
-- Real-Time Applications
+- Real-Time Web Applications
 - Performance Optimization
 
-🌱 Constantly learning:
-- Advanced Backend Architectures
-- Cloud & DevOps
-- Cybersecurity & Ethical Hacking
-- AI-powered Applications
-
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="28"/> Tech Arsenal
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="28"/> Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,firebase,git,github,docker,linux,vscode,figma,postman,python,cpp,c,java&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,redux,firebase,docker,git,github,linux,postman,figma,python,cpp,c,java&perline=8" />
 
 </div>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="28"/> Frontend Engineering
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"/> Frontend Engineering
 
 <div align="center">
 
-| Technologies | Expertise |
-|-------------|------------|
-| ⚛️ React.js / Next.js | Component Architecture & SPA Development |
-| 🎨 Tailwind CSS / SCSS | Premium Responsive UI Design |
-| 📱 Responsive Design | Mobile-First Interfaces |
-| ✨ Animations | Framer Motion & Interactive UX |
+<img src="https://rajaadanali1.github.io/myprofile/assets/imgs/frontend.png" width="100%" style="border-radius:18px;" />
+
+</div>
+
+<br>
+
+| Technology | Expertise |
+|------------|------------|
+| ⚛️ React.js / Next.js | Component Architecture |
+| 🎨 Tailwind CSS / SCSS | Premium UI Systems |
+| 📱 Responsive Design | Mobile First Development |
+| ✨ Framer Motion | Advanced Animations |
 | 🧩 Redux Toolkit | State Management |
-| ⚡ Vite | High-Speed Frontend Development |
-
-</div>
+| ⚡ Vite | High Performance Apps |
 
 ---
 
@@ -99,16 +113,20 @@ Focus:
 
 <div align="center">
 
-| Technologies | Expertise |
-|-------------|------------|
-| 🟢 Node.js / Express.js | REST API Development |
-| 🔐 JWT Authentication | Secure Access Control |
-| 🛢️ MongoDB / MySQL | Database Architecture |
-| ☁️ Firebase / Supabase | Cloud Services |
-| 🔄 API Integrations | Third-Party Services |
-| 🏗️ MVC Architecture | Scalable Backend Systems |
+<img src="https://rajaadanali1.github.io/myprofile/assets/imgs/backend.png" width="100%" style="border-radius:18px;" />
 
 </div>
+
+<br>
+
+| Technology | Expertise |
+|------------|------------|
+| 🟢 Node.js / Express.js | REST APIs |
+| 🔐 JWT Authentication | Security Systems |
+| ☁️ Firebase / Supabase | Cloud Integration |
+| 🛢️ MongoDB / MySQL | Database Architecture |
+| 🔄 API Integration | Third Party Services |
+| 🏗️ MVC Architecture | Scalable Backend |
 
 ---
 
@@ -116,49 +134,35 @@ Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,render,githubactions,linux" />
 
 </div>
 
-### ⚡ Workflow Expertise
-- CI/CD Pipelines
-- GitHub Actions
-- Deployment Optimization
-- Linux Environment
-- Git Version Control
-- Hosting & Scalability
+<br>
+
+✅ CI/CD Pipelines  
+✅ GitHub Actions  
+✅ Linux Workflow  
+✅ Cloud Deployment  
+✅ Performance Optimization  
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"/> UI/UX & Creative Skills
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="28"/> UI/UX & Creative Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
+<img src="https://rajaadanali1.github.io/myprofile/assets/imgs/design.png" width="100%" style="border-radius:18px;" />
 
 </div>
+
+<br>
 
 ✨ Premium Dashboard Design  
 ✨ Interactive User Interfaces  
-✨ Modern Design Systems  
-✨ Branding & Visual Identity  
 ✨ Wireframing & Prototyping  
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="28"/> Professional Skills
-
-<div align="center">
-
-| Development | Engineering | Design |
-|-------------|-------------|--------|
-| Full Stack Development | REST APIs | UI/UX Design |
-| MERN Stack | Authentication Systems | Responsive Interfaces |
-| Database Design | Backend Architecture | Animations |
-| Real-Time Apps | Performance Optimization | Wireframing |
-| SaaS Applications | Security Practices | Design Systems |
-
-</div>
+✨ Branding & Design Systems  
+✨ Modern Animations & UX  
 
 ---
 
@@ -172,7 +176,7 @@ Focus:
 
 <br><br>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAdanAli1&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAdanAli1&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8"/>
 
 <br><br>
 
@@ -182,17 +186,17 @@ Focus:
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28"/> Certifications & Learning
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28"/> Certifications
 
 <div align="center">
 
-| Certification | Platform |
-|---------------|----------|
+| Certification | Organization |
+|---------------|-------------|
 | 🏆 IBM Full Stack Software Development | IBM |
 | 🔐 Google Cybersecurity Certification | Google |
-| ⚛️ MERN Stack Development | Self & Practice |
+| ⚛️ MERN Stack Development | Self Practice |
 | 🎨 Responsive Web Design | Modern Frontend |
-| ☁️ Cloud & Deployment Learning | Ongoing |
+| ☁️ Cloud & DevOps Learning | Ongoing |
 
 </div>
 
@@ -202,22 +206,22 @@ Focus:
 
 ```javascript
 const RajaAdanAli = {
-  currentlyWorkingOn: [
-    "Premium Full Stack Applications",
-    "Advanced Dashboard Systems",
-    "Cybersecurity Learning",
-    "Cloud & DevOps",
-    "Modern UI/UX Systems"
+  building: [
+    "Premium MERN Applications",
+    "Modern Dashboard Systems",
+    "Secure Backend APIs",
+    "Interactive UI/UX Experiences",
+    "Scalable Web Platforms"
   ],
 
-  techStack: {
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    tools: ["Git", "Docker", "Figma"]
-  },
+  learning: [
+    "Cybersecurity",
+    "Cloud Computing",
+    "DevOps",
+    "AI Integration"
+  ],
 
-  passion: "Building Digital Experiences That Make Impact 🚀"
+  motto: "Code • Design • Innovate 🚀"
 };
 ```
 
@@ -228,23 +232,23 @@ const RajaAdanAli = {
 <div align="center">
 
 <a href="https://github.com/RajaAdanAli1">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raja-adan-ali/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
 <a href="mailto:adanraja0@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
 <a href="https://www.instagram.com/raja_adan.ali/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="60"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="60"/>
 </a>
 
 <a href="https://wa.me/923107312040">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60"/>
 </a>
 
 </div>
@@ -269,7 +273,7 @@ const RajaAdanAli = {
 
 <div align="center">
 
-### ⚡ "Turning Ideas Into Scalable Digital Experiences"
+<h2>⚡ Turning Ideas Into Premium Digital Experiences ⚡</h2>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:0F172A,50:1E293B,75:0EA5E9,100:38BDF8"/>
 
