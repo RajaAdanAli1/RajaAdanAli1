@@ -57,24 +57,23 @@
 
 # <img src="https://skillicons.dev/icons?i=react" width="24"/> SYSTEM PROFILE
 
-```yaml
-Name: Raja Adan Ali
-Role: Full Stack Software Engineer
+<div align="center">
 
-Core Technologies:
-  - MERN Stack
-  - REST API Engineering
-  - Responsive UI Systems
-  - Backend Architecture
-  - Authentication & Security
-  - Cloud Deployment
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td style="padding:18px 20px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#e2e8f0;">
+      <p style="margin:0 0 10px; color:#94a3b8; text-transform:uppercase; letter-spacing:0.12em; font-size:12px;">Profile Overview</p>
+      <p style="margin:0 0 14px; font-size:18px; font-weight:700;">Name: Raja Adan Ali</p>
+      <p style="margin:0 0 14px; color:#cbd5e1; line-height:1.8;">Role: Full Stack Software Engineer</p>
+      <p style="margin:0 0 8px; color:#94a3b8; text-transform:uppercase; letter-spacing:0.12em; font-size:12px;">Core Technologies</p>
+      <p style="margin:0 0 14px; color:#cbd5e1; line-height:1.8;">MERN Stack • REST API Engineering • Responsive UI Systems • Backend Architecture • Authentication & Security • Cloud Deployment</p>
+      <p style="margin:0 0 8px; color:#94a3b8; text-transform:uppercase; letter-spacing:0.12em; font-size:12px;">Development Focus</p>
+      <p style="margin:0; color:#cbd5e1; line-height:1.8;">Scalable Web Applications • Performance Optimization • Premium User Interfaces • Secure Backend Systems</p>
+    </td>
+  </tr>
+</table>
 
-Development Focus:
-  - Scalable Web Applications
-  - Performance Optimization
-  - Premium User Interfaces
-  - Secure Backend Systems
-```
+</div>
 
 ---
 
@@ -82,7 +81,13 @@ Development Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,sass,bootstrap,firebase,docker,git,github,linux,figma,postman,vscode,python,cpp,c,java&theme=dark&perline=9"/>
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td align="center" style="padding:18px 18px 14px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,sass,bootstrap,firebase,docker,git,github,linux,figma,postman,vscode,python,cpp,c,java&theme=dark&perline=9" alt="Technology stack" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -92,28 +97,38 @@ Development Focus:
 
 <div align="center">
 
-| Stack | Engineering Focus |
-|---|---|
-| React.js / Next.js | Scalable Component Architecture |
-| Tailwind CSS / SCSS | Modern Interface Systems |
-| Framer Motion | Interactive Motion Design |
-| Redux Toolkit | State Management |
-| Responsive Design | Cross-Platform Optimization |
-| Vite | High Performance Development |
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td style="padding:18px 20px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#cbd5e1;">
+      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; color:#cbd5e1;">
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">React.js / Next.js</td><td style="padding:8px 0;">Scalable Component Architecture</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Tailwind CSS / SCSS</td><td style="padding:8px 0;">Modern Interface Systems</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Framer Motion</td><td style="padding:8px 0;">Interactive Motion Design</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Redux Toolkit</td><td style="padding:8px 0;">State Management</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Responsive Design</td><td style="padding:8px 0;">Cross-Platform Optimization</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Vite</td><td style="padding:8px 0;">High Performance Development</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-```tsx
-const frontend = {
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto 8px;">
+  <tr>
+    <td style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <pre style="margin:0; color:#cbd5e1; font-size:13px; line-height:1.8; overflow:auto;"><code>const frontend = {
   architecture: "Component Based",
   styling: "TailwindCSS + SCSS",
   animations: "Framer Motion",
   responsiveness: "Mobile First",
   optimization: true
-};
-```
+};</code></pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,28 +136,38 @@ const frontend = {
 
 <div align="center">
 
-| Technology | Backend Expertise |
-|---|---|
-| Node.js | Backend Runtime |
-| Express.js | API Development |
-| MongoDB | NoSQL Architecture |
-| MySQL | Relational Databases |
-| JWT Authentication | Secure Authorization |
-| Firebase | Cloud Services |
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td style="padding:18px 20px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#cbd5e1;">
+      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; color:#cbd5e1;">
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Node.js</td><td style="padding:8px 0;">Backend Runtime</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Express.js</td><td style="padding:8px 0;">API Development</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">MongoDB</td><td style="padding:8px 0;">NoSQL Architecture</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">MySQL</td><td style="padding:8px 0;">Relational Databases</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">JWT Authentication</td><td style="padding:8px 0;">Secure Authorization</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Firebase</td><td style="padding:8px 0;">Cloud Services</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-```js
-const backend = {
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto 8px;">
+  <tr>
+    <td style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <pre style="margin:0; color:#cbd5e1; font-size:13px; line-height:1.8; overflow:auto;"><code>const backend = {
   api: "RESTful",
   architecture: "MVC",
   authentication: "JWT",
   database: ["MongoDB", "MySQL"],
   deployment: "Cloud Ready"
-};
-```
+};</code></pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -150,18 +175,23 @@ const backend = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,render,githubactions,linux&theme=dark"/>
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td align="center" style="padding:18px 18px 14px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,render,githubactions,linux&theme=dark" alt="DevOps and cloud" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br>
-
-- CI/CD Pipelines  
-- Deployment Automation  
-- Linux Development Environment  
-- GitHub Actions  
-- Cloud Hosting & Scalability  
-- Performance Monitoring  
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:14px auto 0;">
+  <tr>
+    <td style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#cbd5e1;">
+      <p style="margin:0; line-height:1.9;">CI/CD Pipelines • Deployment Automation • Linux Development Environment • GitHub Actions • Cloud Hosting & Scalability • Performance Monitoring</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -169,13 +199,19 @@ const backend = {
 
 <div align="center">
 
-| Design Systems | Interface Engineering |
-|---|---|
-| Dashboard Systems | Responsive Interfaces |
-| Wireframing | Motion Design |
-| Prototyping | Accessibility |
-| User Flows | Visual Hierarchy |
-| Design Tokens | Component Libraries |
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td style="padding:18px 20px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#cbd5e1;">
+      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; color:#cbd5e1;">
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Dashboard Systems</td><td style="padding:8px 0;">Responsive Interfaces</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Wireframing</td><td style="padding:8px 0;">Motion Design</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Prototyping</td><td style="padding:8px 0;">Accessibility</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">User Flows</td><td style="padding:8px 0;">Visual Hierarchy</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Design Tokens</td><td style="padding:8px 0;">Component Libraries</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -209,13 +245,19 @@ const backend = {
 
 <div align="center">
 
-| Certification | Domain |
-|---|---|
-| IBM Full Stack Software Development | Full Stack Engineering |
-| Google Cybersecurity Certification | Security Engineering |
-| Responsive Web Design | Frontend Systems |
-| MERN Stack Development | Application Engineering |
-| Cloud & DevOps Learning | Infrastructure |
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td style="padding:18px 20px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30); color:#cbd5e1;">
+      <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; color:#cbd5e1;">
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">IBM Full Stack Software Development</td><td style="padding:8px 0;">Full Stack Engineering</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Google Cybersecurity Certification</td><td style="padding:8px 0;">Security Engineering</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Responsive Web Design</td><td style="padding:8px 0;">Frontend Systems</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">MERN Stack Development</td><td style="padding:8px 0;">Application Engineering</td></tr>
+        <tr><td style="padding:8px 0; width:38%; color:#e2e8f0; font-weight:700;">Cloud & DevOps Learning</td><td style="padding:8px 0;">Infrastructure</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -244,31 +286,35 @@ const RajaAdanAli = {
 };
 ```
 
+<div align="center">
+
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:14px auto 0;">
+  <tr>
+    <td align="center" style="padding:16px 18px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <img src="https://img.shields.io/badge/Current%20Focus-Scalable%20Products-111827?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Current focus" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 # <img src="https://skillicons.dev/icons?i=linkedin" width="24"/> CONNECT
 
 <div align="center">
 
-<a href="https://github.com/RajaAdanAli1">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raja-adan-ali/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-</a>
-
-<a href="mailto:adanraja0@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-</a>
-
-<a href="https://www.instagram.com/raja_adan.ali/">
-<img src="https://skillicons.dev/icons?i=instagram" width="60"/>
-</a>
-
-<a href="https://wa.me/923107312040" title="WhatsApp">
-<img src="https://skillicons.dev/icons?i=whatsapp" width="60"/>
-</a>
+<table style="width:100%; max-width:760px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td align="center" style="padding:18px 18px 14px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <a href="https://github.com/RajaAdanAli1"><img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /></a>
+      <a href="https://www.linkedin.com/in/raja-adan-ali/"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+      <a href="mailto:adanraja0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+      <a href="https://www.instagram.com/raja_adan.ali/"><img src="https://skillicons.dev/icons?i=instagram" width="60" alt="Instagram" /></a>
+      <a href="https://wa.me/923107312040" title="WhatsApp"><img src="https://skillicons.dev/icons?i=whatsapp" width="60" alt="WhatsApp" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -278,7 +324,13 @@ const RajaAdanAli = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RajaAdanAli1&theme=darkhub&no-frame=true&column=7"/>
+<table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:0; margin:0 auto;">
+  <tr>
+    <td align="center" style="padding:18px 18px 14px; background:linear-gradient(180deg, rgba(15,23,42,0.92), rgba(2,6,23,0.96)); border:1px solid #1e293b; border-radius:22px; box-shadow:0 18px 50px rgba(2,6,23,0.30);">
+      <img src="https://github-profile-trophy.vercel.app/?username=RajaAdanAli1&theme=darkhub&no-frame=true&column=7" alt="GitHub trophies" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
